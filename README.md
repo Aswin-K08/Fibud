@@ -1,2 +1,3 @@
 # Fibud
 A single Page web Application that connects Fitness Trainers and experts with Clients. This is only a frontend Template. The Frontend is made in a way that it closely resembles the orginal Fibud. A search Option and few filters have been given inorder to make it easier for the client to search for experts. The Trainer cards are mapped and it is also scrollable. The entire website is divided in 5. Appbar, hero , Content, Footer, BottomNavBar. I have given Icon instead of real images so that backend developers can change the icon with images. The card will show a dialogue box when clicked which shows more details on the expert. 
+![Screenshot 2025-04-06 033814](https://github.com/user-attachments/assets/ad6d519a-1e84-413a-a844-83e62ded0f9b)
